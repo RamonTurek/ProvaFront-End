@@ -65,7 +65,27 @@ ul{
     border: 3px solid white;
     }
 
-    .cadastro{
-margin: 20% 30%;
+.cadastro{
+margin: 15% 30%;
+background-color: rgb(183 212 233);
+padding: 40px 150px;
+border-radius: 30px;
+box-shadow: 1px 1px 10px rgb(95, 95, 95);
+}
 
-    }
+.cadastro input{
+margin: 10px;
+padding: 10px;
+border-radius: 12px;
+border: 1px solid black;
+font-size: 18px;
+
+}
+
+.cad{
+padding: 15px;
+border-radius: 10px;
+font-size: 20px;
+
+
+}
